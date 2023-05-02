@@ -215,7 +215,7 @@
 
 #### Upload Image
 
-- [] if some question, re-watch 07-file-upload
+ 
 - [] images folder with two images
 
 #### Review Model
